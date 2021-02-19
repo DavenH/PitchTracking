@@ -21,9 +21,9 @@ To see how the cyclogram plot works, it's useful to see some simple transformati
 1. This is the waveform of a voice recording
 2. This is the same waveform, but instead of a vertical amplitude axis, this uses a colour spectrum.
 3. Annotating equal-spaced ticks; the spacing is arbitrary
-   - 3' The a visual reshaping transformation, rotating segments according to the tick boundaries
+   - 3' A visual reshaping transformation, rotating segments according to the tick boundaries
 4. The above, but with ticks aligned to period boundaries (as determined by our algorithm)
-   - 4' The visual reshaping transformation, rotating segments according to the period-aligned tick-boundaries. 
-   This is termed the 'cyclogram'
+   - 4' A visual reshaping transformation, rotating segments according to the period-aligned tick-boundaries. 
+   This is what I term the 'cyclogram'
 
 ![](media/waveforms_ticks_unified.png)
